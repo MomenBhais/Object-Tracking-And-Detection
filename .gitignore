@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore dependencies (if installed locally)
+*.egg-info/
+*.whl/
+
+# Ignore uploaded videos/images (if applicable)
+uploads/
+videos/
+images/
+
+# Ignore Streamlit-generated cache files
+.streamlit/
+
+# Ignore logs and temporary files
+logs/
+*.log
