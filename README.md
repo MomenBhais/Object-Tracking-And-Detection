@@ -102,7 +102,7 @@ pip install streamlit opencv-python numpy
 ```
 
 ## Screenshots
-*(Add example images or gifs here to demonstrate the applications in action.)*
+![Image](https://github.com/user-attachments/assets/98bc69e2-3258-427a-9f36-ee6975723dfd)
 
 ## Author
 👤 **Momen Mohammed Bhais**  
